@@ -1,0 +1,22 @@
+{
+  "name": "api-rest",
+  "version": "0.0.1",
+  "description": "JSON REST API server for informativo.dev project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api",
+    "json"
+  ],
+  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://youtube.com/carlosazaustre)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
